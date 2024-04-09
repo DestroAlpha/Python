@@ -1,5 +1,4 @@
-print('Name:-Vivek Raj \n Roll no.:-23/19045 \n Bsc Physics(H)')
-import math
+import math
 import cmath
 a=eval(input("Enter the value of cofficient of x**2:- "))
 b=eval(input("Enter the value of cofficient of x:- "))
