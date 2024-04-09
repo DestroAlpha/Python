@@ -1,6 +1,6 @@
 def Mydetail():
     a="Aim:-To display the greatest number by using python"
-    print(f"Name:-Vivek Raj\n Roll no.:-23/19045 \n Bsc Physics\n{a}")
+    
 Mydetail()
 num1=eval(input("Enter the value "))
 num2=eval(input("Enter the value "))
