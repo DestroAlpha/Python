@@ -1,5 +1,4 @@
-a="To find the factorial of 'N' number and arrange the red and blue balls using python"
-print('Name:- Vivek Raj \n Roll no.:-23\19045 \n Bsc Physics(H) \n ', a)
+a="To find the factorial of 'N' number and arrange the red and blue balls using python"
 m=eval(input("Enter the no. of red balls:- "))
 n=eval(input("Enter the no.of blue balls:- "))
 def factorial(N):
