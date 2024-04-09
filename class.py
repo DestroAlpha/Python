@@ -1,5 +1,4 @@
-print("Vivek raj \n 23/19045\n Bsc Physic(H)")
-a=eval(input("Enter a number"))
+a=eval(input("Enter a number"))
 b=eval(input("Enter a number"))
 class A1:
     def method1():
